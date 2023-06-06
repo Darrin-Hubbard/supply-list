@@ -1,4 +1,4 @@
-const supplies = document.getElementsByClassName("groceries")[0];
+const supplies = document.getElementsByClassName("supplies")[0];
 const pencil = document.getElementById("pencil");
 const allItems = document.getElementById("allItems");
 const userInput = document.getElementById("userInput");
